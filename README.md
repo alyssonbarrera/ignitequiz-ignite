@@ -25,6 +25,10 @@ In the application, with the interfaces already built, animations and microinter
     </div>
 </div>
 
+## Video
+
+https://user-images.githubusercontent.com/86618257/236331875-95e30bd6-dd24-42ba-bd17-51e02d59f58d.mp4
+
 ## Stack
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
