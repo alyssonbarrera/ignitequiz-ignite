@@ -4,10 +4,11 @@ import { THEME } from '../../styles/theme';
 
 export const styles = StyleSheet.create({
   container: {
-    flexGrow: 1,
+    flex: 1,
     backgroundColor: THEME.COLORS.GREY_800,
   },
   history: {
+    flexGrow: 1,
     padding: 32,
   },
   swipeableContainer: {
